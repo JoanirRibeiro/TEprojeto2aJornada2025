@@ -2,3 +2,16 @@ body {
     background-color: #305050;
     color: white;
 }
+
+h2 {
+    color: #ffa500;
+}
+
+.texto-ingles{
+    font-style: italic;
+    font-weight: 900;
+}
+
+#nome-usuario{
+    font-weight: bold;
+}
